@@ -1,1 +1,11 @@
 # Git
+- git init 初始化一个git文件夹
+- git add 将一个文件添加到暂存区 `git add <file>`
+- git commit 将暂存区的提交`git commit -m "massage"`,`git commit -m <message>`
+- git status 查看状态 `git status`
+- git diff 查看修改`git diff <file> `
+- git log 查看版本历史
+- git reset --hard HEAD^ 回退到上个版本 `git reset --hard HEAD~10`
+- git reset --hard \<id> 去到某个id的版本 
+- git reflog 查看历史命令
+- HEAD 指向当前版本 
