@@ -10,3 +10,5 @@
 - git reflog 查看历史命令
 - HEAD 指向当前版本 
 - add test 1
+- add test 2
+
