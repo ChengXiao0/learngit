@@ -9,3 +9,4 @@
 - git reset --hard \<id> 去到某个id的版本 
 - git reflog 查看历史命令
 - HEAD 指向当前版本 
+- add test 1
